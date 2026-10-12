@@ -1,0 +1,2 @@
+circulo
+# Los árboles y arbustos chocan solo por el tronco (un círculo del radio de colisión), no por la copa.

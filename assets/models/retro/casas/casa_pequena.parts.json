@@ -1,0 +1,60 @@
+{
+ "Parts": [
+  {
+   "Model": "retro/piezas/wall-window",
+   "X": -0.5,
+   "Y": 0,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-door",
+   "X": -0.5,
+   "Y": 0,
+   "Z": 0.5,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/wall",
+   "X": 0.5,
+   "Y": 0,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-window",
+   "X": 0.5,
+   "Y": 0,
+   "Z": 0.5,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 1,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 1,
+   "Z": -0.5,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 1,
+   "Z": 0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 1,
+   "Z": 0.5,
+   "Rotation": 180
+  }
+ ]
+}

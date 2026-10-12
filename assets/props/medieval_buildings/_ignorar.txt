@@ -1,0 +1,2 @@
+# Copias a media resolución (64x32) de los mismos edificios: con las de 128x64 basta.
+64x32_*/

@@ -1,0 +1,74 @@
+{
+ "Parts": [
+  {
+   "Model": "retro/piezas/column-wood",
+   "X": -0.5,
+   "Y": 0,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/column-wood",
+   "X": -0.5,
+   "Y": 0,
+   "Z": 0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/column-wood",
+   "X": 0.5,
+   "Y": 0,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/column-wood",
+   "X": 0.5,
+   "Y": 0,
+   "Z": 0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 1,
+   "Z": -0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 1,
+   "Z": 0.5,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 1,
+   "Z": -0.5,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 1,
+   "Z": 0.5,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/detail-crate",
+   "X": 0.25,
+   "Y": 0,
+   "Z": 0.1,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/detail-barrel",
+   "X": -0.3,
+   "Y": 0,
+   "Z": 0.2,
+   "Rotation": 0
+  }
+ ]
+}

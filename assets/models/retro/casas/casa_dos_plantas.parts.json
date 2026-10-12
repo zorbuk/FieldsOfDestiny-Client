@@ -1,0 +1,130 @@
+{
+ "Parts": [
+  {
+   "Model": "retro/piezas/wall-paint-window",
+   "X": -0.5,
+   "Y": 0,
+   "Z": -1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": -0.5,
+   "Y": 0,
+   "Z": 0.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint-door",
+   "X": -0.5,
+   "Y": 0,
+   "Z": 1.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": 0.5,
+   "Y": 0,
+   "Z": -1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": 0.5,
+   "Y": 0,
+   "Z": 0.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint-window",
+   "X": 0.5,
+   "Y": 0,
+   "Z": 1.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": -0.5,
+   "Y": 1,
+   "Z": -1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": -0.5,
+   "Y": 1,
+   "Z": 0.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint-window",
+   "X": -0.5,
+   "Y": 1,
+   "Z": 1.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/wall-paint-window",
+   "X": 0.5,
+   "Y": 1,
+   "Z": -1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint",
+   "X": 0.5,
+   "Y": 1,
+   "Z": 0.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/wall-paint-window",
+   "X": 0.5,
+   "Y": 1,
+   "Z": 1.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 2,
+   "Z": -1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 2,
+   "Z": -1.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 2,
+   "Z": 0.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 2,
+   "Z": 0.0,
+   "Rotation": 180
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": -0.5,
+   "Y": 2,
+   "Z": 1.0,
+   "Rotation": 0
+  },
+  {
+   "Model": "retro/piezas/roof-high-side",
+   "X": 0.5,
+   "Y": 2,
+   "Z": 1.0,
+   "Rotation": 180
+  }
+ ]
+}
