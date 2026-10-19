@@ -1,6 +1,0 @@
-# Losetas de suelo isométricas (para juegos 2D): no son objetos, el terreno del juego es voxel.
-# Borra una línea si quieres que ese archivo vuelva a salir en la paleta de props.
-*_tiles.png
-*_tiles_w_trans.png
-*_cliff_trans.png
-water_*.png
