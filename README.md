@@ -5,7 +5,7 @@ El juego, listo para jugar en Windows (64 bits). No hace falta instalar nada.
 1. Descarga el repositorio (Code -> Download ZIP) y descomprímelo donde quieras.
 2. Abre `FieldsOfDestiny.Client.exe`.
 
-La primera vez prepara los recursos (los paquetes de `paquetes/`, que se borran al extraerse).
+La primera vez descarga y prepara los recursos (los paquetes del juego, de la Release "paquetes").
 El juego se actualiza solo cada vez que se abre: solo descarga lo que ha cambiado.
 Si algo falla: Opciones -> **Reparar el juego**.
 
