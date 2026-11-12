@@ -1,7 +1,7 @@
-﻿{
+{
     "protocol":  46,
-    "date":  "2026-11-12T13:01:56.1828016Z",
-    "message":  "v46. Creature Battle \u0026 Story Quests, Gang Battles, New Jobs Available with New Recipes.",
+    "date":  "2026-11-12T13:07:27.8486367Z",
+    "message":  "v46. Linux: improved anti-cheat (Linux debuggers and memory tools detected).",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39227661,
-                      "sha256":  "976254B4533DD379C84C2CC890298BC3C3827D921019DB5BBF7DF5FCDE595A05"
+                      "size":  39228198,
+                      "sha256":  "D9C84CB46B72D90FB822E12948FCA9686BCF29E93195AADE467A042D179340EB"
                   },
                   {
                       "path":  "jugar.sh",
@@ -38,8 +38,8 @@
                   },
                   {
                       "path":  "README.md",
-                      "size":  556,
-                      "sha256":  "E277386E0E219BCD73016B11783743A832B9BEAA030168AECEE8942F63B984D6"
+                      "size":  548,
+                      "sha256":  "BA55D4F5E94F0A156F2D72D1336852DD80078F90C777DF41A491BA9CE139C9F0"
                   },
                   {
                       "path":  "Content/CombatFont.xnb",
