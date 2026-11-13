@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:22:34.0715642Z",
-    "message":  "v47. Android: models drawn one by one (instancing left the vertex inputs broken: the interface drew as nothing)",
+    "date":  "2026-11-13T21:26:48.6712687Z",
+    "message":  "v47. Android: on-screen keyboard shows for text fields",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15818152,
-                "sha256":  "03EE977F7E8DB844A6FFF37BCF2B8BF93C31684C9C548367E43DBE27B88C193C"
+                "size":  15822248,
+                "sha256":  "017756212A731799FE8DC25227A4C4D44E6B761172E74BF088523A19CC3C4CAA"
             }
 }
