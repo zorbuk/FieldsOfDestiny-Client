@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T20:01:35.8621861Z",
-    "message":  "v47. Android: updater drawn at the phone\u0027s interface size",
+    "date":  "2026-11-13T20:02:56.7448459Z",
+    "message":  "v47. Android: skip the depth pre-pass OpenGL ES crashes on",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15814056,
-                "sha256":  "6B526356BF480D36F09A7E36D968EF2653A0388DDBC06AC02F00833817BB9004"
+                "sha256":  "16B845E3CEAD6B541B6D4DC3E96FED6A11179F10555F1470AB5E3D75B747ADEF"
             }
 }
