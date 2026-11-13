@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T19:53:41.1906371Z",
-    "message":  "v47. Android: fix crash while placing the world, use the whole screen",
+    "date":  "2026-11-13T19:57:54.1219825Z",
+    "message":  "v47. Android: skip the figures shader OpenGL ES cannot compile",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15814056,
-                "sha256":  "413DD1358FBB0C74960FDCD70BEBB2DA4A21FA035B8843DE64538A15B5200806"
+                "sha256":  "4135382B990D6AEDAC89F74D3F33BAC80C8E368EA880AC1748C67CCB9D31B96D"
             }
 }
