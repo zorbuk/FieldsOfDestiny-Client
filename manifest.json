@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:03:40.9887443Z",
-    "message":  "v47. Android: the right half of the screen turns the camera",
+    "date":  "2026-11-13T22:10:16.0154283Z",
+    "message":  "v47. Android: any drag on the right half turns the camera, buttons included",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15826344,
-                "sha256":  "3C5FCB97E2CABCA3363E7FE0C10AA978BEFA646649765B8385F510D7996CCEAD"
+                "sha256":  "F51827A10FDBE7B60D431D04D9D351E5E36F1E44CF8924A4E15FB6F11124B1AE"
             }
 }
