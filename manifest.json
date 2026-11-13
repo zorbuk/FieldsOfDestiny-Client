@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:31:10.6397492Z",
-    "message":  "v47. Android: crafting recipes scroll with a finger",
+    "date":  "2026-11-13T22:35:09.6315959Z",
+    "message":  "v47. Android: panels keep their own touches (masteries scroll, next critter can be chosen)",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15830440,
-                "sha256":  "FF08506A6480513D3AAA2F61C2C43F759DBB5DD12053DAD490F2C15DF93D7C19"
+                "sha256":  "A77476302DADE0FA6CAA55777D88EACC38258A6D33A39F2877D393C24CD41E83"
             }
 }
