@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:04:15.3776780Z",
-    "message":  "v47. Android: screen size set once at start (resizing remade the surface and lost every texture)",
+    "date":  "2026-11-13T21:10:51.9874104Z",
+    "message":  "v47. Android: full-screen surface from the first moment, recover from a lost drawing context",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15814056,
-                "sha256":  "C19D8357C4C4E7CE04471F1E2DDC807B1AFF706F7FD4F832E321844DD656D9A5"
+                "size":  15818152,
+                "sha256":  "EA2AAD1B3C6599A030CB9448DF3E1F5F53B98752063A84AC088A46BFC4246A74"
             }
 }
