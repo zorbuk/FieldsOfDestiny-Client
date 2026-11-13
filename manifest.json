@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:27:53.3650632Z",
-    "message":  "v47. Android: scrolling a conversation no longer picks an answer",
+    "date":  "2026-11-13T22:31:10.6397492Z",
+    "message":  "v47. Android: crafting recipes scroll with a finger",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15826344,
-                "sha256":  "0734E3AB8015C8560322F36FD671F3A1B809ECA239D935B5F10DBC923123E7BD"
+                "size":  15830440,
+                "sha256":  "FF08506A6480513D3AAA2F61C2C43F759DBB5DD12053DAD490F2C15DF93D7C19"
             }
 }
