@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T20:02:56.7448459Z",
-    "message":  "v47. Android: skip the depth pre-pass OpenGL ES crashes on",
+    "date":  "2026-11-13T20:16:17.9112791Z",
+    "message":  "v47. Android: no multisampling, drawing diagnosis",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15814056,
-                "sha256":  "16B845E3CEAD6B541B6D4DC3E96FED6A11179F10555F1470AB5E3D75B747ADEF"
+                "size":  15818152,
+                "sha256":  "F103610114C20F4461B9D626557AE2B4364D6E513536686D58D9A95A5AA0913F"
             }
 }
