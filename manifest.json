@@ -1,7 +1,7 @@
 {
-    "protocol":  46,
-    "date":  "2026-11-13T09:56:50.0788777Z",
-    "message":  "v46. prueba local android",
+    "protocol":  47,
+    "date":  "2026-11-13T16:23:41.2804727Z",
+    "message":  "v47. Android version, mobile UI overhaul and quality of life (see main branch notes)",
     "config":  [
                    "servidor.json"
                ],
@@ -35,9 +35,9 @@
                      },
                      {
                          "path":  "paquetes/audio-5.rar",
-                         "size":  14908346,
-                         "sha256":  "127719FDA3B89D11D540219DAD5EDFAE816E1FEA84FBFC332A7CD2F307FCB769",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-127719fda3b8.rar"
+                         "size":  14928988,
+                         "sha256":  "E47D1ABF6AD5629E73AA5496949EC2CB0EF09822E049762DBB3946065BC6954F",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-e47d1abf6ad5.rar"
                      },
                      {
                          "path":  "paquetes/audio-6.rar",
@@ -473,14 +473,14 @@
                      },
                      {
                          "path":  "paquetes/ui.rar",
-                         "size":  1038717,
-                         "sha256":  "3B527E3B6F92462C6EB9128F77554A76A9C8A06A02A510B69F309E3F42BF6B86",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-3b527e3b6f92.rar"
+                         "size":  1116508,
+                         "sha256":  "52CE70A791F2C26C272DEC609B1DA94930C9A41B455E027E0E896D2C91400F72",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-52ce70a791f2.rar"
                      }
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  11742547,
-                "sha256":  "0F977AC8813C883863C7A4A8A4905B3E19D4CC8922C6346596667D53E213A2BF"
+                "size":  15773096,
+                "sha256":  "55CC6C1F73A60024605C7B74DA73E3ECE2B61DD3DE50A5F25DF3793CC4ED3843"
             }
 }
