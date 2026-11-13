@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:19:47.9187362Z",
-    "message":  "v47. Android: comfortable defaults for new players, touch tips while loading",
+    "date":  "2026-11-13T22:27:53.3650632Z",
+    "message":  "v47. Android: scrolling a conversation no longer picks an answer",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15826344,
-                "sha256":  "FC77157DDB8ADE304C36F3EBABFF93B4E92F740C20A901BAB9BFFE3BCE683EA9"
+                "sha256":  "0734E3AB8015C8560322F36FD671F3A1B809ECA239D935B5F10DBC923123E7BD"
             }
 }
