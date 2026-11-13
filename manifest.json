@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:17:21.3995303Z",
-    "message":  "v47. Android: deeper drawing diagnosis",
+    "date":  "2026-11-13T21:22:34.0715642Z",
+    "message":  "v47. Android: models drawn one by one (instancing left the vertex inputs broken: the interface drew as nothing)",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15818152,
-                "sha256":  "EA37A88425E582085CC5AA2C3417E6B00A6387B9778DC69488890827E60ABD25"
+                "sha256":  "03EE977F7E8DB844A6FFF37BCF2B8BF93C31684C9C548367E43DBE27B88C193C"
             }
 }
