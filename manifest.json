@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:33:44.0882921Z",
-    "message":  "v47. Android: keyboard only when a field is touched, closed by touching elsewhere",
+    "date":  "2026-11-13T21:37:49.0019915Z",
+    "message":  "v47. Android: no field picked by default, a touch elsewhere lets go of it",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15822248,
-                "sha256":  "74EEA4EECAFB71E8795E18755258AB90DB1B2522CB73637FFDAEB6BAED8ED70C"
+                "sha256":  "BBE07E56367F121B546DBEB153FED7C2A308ECCE9BB0EF4BD16FB25C62277A90"
             }
 }
