@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:38:42.6211526Z",
-    "message":  "v47. Android: spellbook shows every ability in one scrolling list",
+    "date":  "2026-11-13T22:46:16.0480061Z",
+    "message":  "v47. Android: spellbook scrolls without picking abilities, card on a long press",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15834536,
-                "sha256":  "2583604129BA9F1760DBC0A6BA5F3C2AE7241817F67A110D530A55BD56434098"
+                "sha256":  "3F5C3638210FE4A17B05D157F86D479C387DFAD6C6BFCD79B1FB1B19D8ADFBAA"
             }
 }
