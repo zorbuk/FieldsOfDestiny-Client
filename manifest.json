@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:10:51.9874104Z",
-    "message":  "v47. Android: full-screen surface from the first moment, recover from a lost drawing context",
+    "date":  "2026-11-13T21:17:21.3995303Z",
+    "message":  "v47. Android: deeper drawing diagnosis",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15818152,
-                "sha256":  "EA2AAD1B3C6599A030CB9448DF3E1F5F53B98752063A84AC088A46BFC4246A74"
+                "sha256":  "EA37A88425E582085CC5AA2C3417E6B00A6387B9778DC69488890827E60ABD25"
             }
 }
