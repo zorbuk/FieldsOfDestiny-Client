@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:35:09.6315959Z",
-    "message":  "v47. Android: panels keep their own touches (masteries scroll, next critter can be chosen)",
+    "date":  "2026-11-13T22:38:42.6211526Z",
+    "message":  "v47. Android: spellbook shows every ability in one scrolling list",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15830440,
-                "sha256":  "A77476302DADE0FA6CAA55777D88EACC38258A6D33A39F2877D393C24CD41E83"
+                "size":  15834536,
+                "sha256":  "2583604129BA9F1760DBC0A6BA5F3C2AE7241817F67A110D530A55BD56434098"
             }
 }
