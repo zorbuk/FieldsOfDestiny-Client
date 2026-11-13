@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:29:38.9962839Z",
-    "message":  "v47. Android: character frames at full size, no keyboard before the creator\u0027s name step",
+    "date":  "2026-11-13T21:33:44.0882921Z",
+    "message":  "v47. Android: keyboard only when a field is touched, closed by touching elsewhere",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15822248,
-                "sha256":  "112CD464A3FF7D90D58491E82CE0106164F2EDBBC650E4846DAEE781A5048F66"
+                "sha256":  "74EEA4EECAFB71E8795E18755258AB90DB1B2522CB73637FFDAEB6BAED8ED70C"
             }
 }
