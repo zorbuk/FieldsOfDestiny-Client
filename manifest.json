@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T20:16:17.9112791Z",
-    "message":  "v47. Android: no multisampling, drawing diagnosis",
+    "date":  "2026-11-13T20:59:01.1082263Z",
+    "message":  "v47. Android: much less memory (half-size sheets, no grass, smaller texture budget)",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15818152,
-                "sha256":  "F103610114C20F4461B9D626557AE2B4364D6E513536686D58D9A95A5AA0913F"
+                "sha256":  "C9484F20E4D919C3EB3F2F2363B604F1C71C8DE43951BDAC1A4F380D334327B9"
             }
 }
