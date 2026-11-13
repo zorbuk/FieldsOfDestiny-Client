@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:55:26.6185970Z",
-    "message":  "v47. Android: a finger on the world turns the camera on its own, options scroll by dragging",
+    "date":  "2026-11-13T21:58:07.9025114Z",
+    "message":  "v47. Android: login fields start unpicked",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15826344,
-                "sha256":  "B42B991EDEE5B48DD11712FB1DFA692F549815FDC57392412EBBF663922C65C8"
+                "sha256":  "1F97692B65B3293D872355AFEBC16E81F9FACBBB44A78738578CE7E63C633D71"
             }
 }
