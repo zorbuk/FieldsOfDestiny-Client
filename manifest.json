@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:10:16.0154283Z",
-    "message":  "v47. Android: any drag on the right half turns the camera, buttons included",
+    "date":  "2026-11-13T22:14:03.5464755Z",
+    "message":  "v47. Android: world map moves with a finger and zooms with two",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15826344,
-                "sha256":  "F51827A10FDBE7B60D431D04D9D351E5E36F1E44CF8924A4E15FB6F11124B1AE"
+                "sha256":  "DA72821122B994E292E4ABE08B793A8DF449FC35C37B0528D8DD0E9787C19F6A"
             }
 }
