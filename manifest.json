@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T16:23:41.2804727Z",
-    "message":  "v47. Android version, mobile UI overhaul and quality of life (see main branch notes)",
+    "date":  "2026-11-13T19:48:34.1051431Z",
+    "message":  "v47. Android: full-screen fix, soft keyboard, lighter world loading, crash report on next start",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15773096,
-                "sha256":  "55CC6C1F73A60024605C7B74DA73E3ECE2B61DD3DE50A5F25DF3793CC4ED3843"
+                "size":  15801768,
+                "sha256":  "F1DA45076788BD7EAA4960BE3BEEFD800244995BC38F2D71AB223E40EFECBB4A"
             }
 }
