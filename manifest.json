@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:37:49.0019915Z",
-    "message":  "v47. Android: no field picked by default, a touch elsewhere lets go of it",
+    "date":  "2026-11-13T21:40:11.9676692Z",
+    "message":  "v47. Android: every start in a fresh process (reopening crashed on graphics states left from the last run)",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15822248,
-                "sha256":  "BBE07E56367F121B546DBEB153FED7C2A308ECCE9BB0EF4BD16FB25C62277A90"
+                "sha256":  "746F59761F9CC8E4E0D51B21346D6AF8B717A9BC61F4352533257DBB3D80B52E"
             }
 }
