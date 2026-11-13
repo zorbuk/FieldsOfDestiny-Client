@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T21:48:31.0590619Z",
-    "message":  "v47. Android: gentler camera turning, pinch to zoom, no ability card on tap",
+    "date":  "2026-11-13T21:55:26.6185970Z",
+    "message":  "v47. Android: a finger on the world turns the camera on its own, options scroll by dragging",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15822248,
-                "sha256":  "FD1EC49102F155CAAFFC6CF44CD192B0F3F0249C633DE4FECDA7F7753569C657"
+                "size":  15826344,
+                "sha256":  "B42B991EDEE5B48DD11712FB1DFA692F549815FDC57392412EBBF663922C65C8"
             }
 }
