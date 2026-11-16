@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T22:46:16.0480061Z",
-    "message":  "v47. Android: spellbook scrolls without picking abilities, card on a long press",
+    "date":  "2026-11-16T10:34:25.4042011Z",
+    "message":  "v47. Android: sliders follow the finger, running only past the stick\u0027s ring, workshop list no longer flickers",
     "config":  [
                    "servidor.json"
                ],
@@ -481,6 +481,6 @@
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
                 "size":  15834536,
-                "sha256":  "3F5C3638210FE4A17B05D157F86D479C387DFAD6C6BFCD79B1FB1B19D8ADFBAA"
+                "sha256":  "07D1B57059924699DF1C02D1F713CD41C1C5CF41C6124C2A06872868968D4E02"
             }
 }
