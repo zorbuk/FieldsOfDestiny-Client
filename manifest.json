@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-13T16:21:29.8173610Z",
-    "message":  "v47. Android version, mobile UI overhaul and quality of life\n\n- New: Android version (touch controls, auto-updater, Discord voice, back button, vibration, battery saver)\n- New: Keep me signed in option on every version\n- Mobile: redesigned login, character creation, hero, talents, critters, critter battles, trade, bank, merchant and auction house\n- Mobile: drag items to buy, sell, deposit, withdraw, trade, equip and unequip; quantity picker\n- Mobile: run button, compact minimap, full utility bar, group menu by long-pressing frames\n- Item icons: green arrow for upgrades, red veil for gear your spec cannot use, required-level band, level badge on gems and potions\n- Bags and boxes can go on the utility bar; consumables now show their item level\n- Gem workshop: pick the piece straight from a list (PC too)\n- Dungeons: harder late bosses, more pulls in Risco del Guiverno\n- Daily login rewards give much less gold (economy)\n- Fixes: revive button blocked by the Discord invite, telegraphs from other instances, clicks passing through menus",
+    "date":  "2026-11-16T10:57:28.9507408Z",
+    "message":  "v47. Fix Creature Battle Timers, Flickering, Horizontal Bars on Mobile, Lingots, and Plus QoL",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39300785,
-                      "sha256":  "A704D8F47CE42CF81BDA4F72A7C1939173B84A91BD5F753572DA1A755BD2337E"
+                      "size":  39306858,
+                      "sha256":  "630777D4F819B9A52A463132A92DD18B69F6F778C108A7A7E75057226CEDCA4D"
                   },
                   {
                       "path":  "jugar.sh",
