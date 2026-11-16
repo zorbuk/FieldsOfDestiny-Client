@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-16T10:34:25.4042011Z",
-    "message":  "v47. Android: sliders follow the finger, running only past the stick\u0027s ring, workshop list no longer flickers",
+    "date":  "2026-11-16T10:58:58.0815717Z",
+    "message":  "v47. Fix Creature Battle Timers, Flickering, Horizontal Bars on Mobile, Lingots, and Plus QoL",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15834536,
-                "sha256":  "07D1B57059924699DF1C02D1F713CD41C1C5CF41C6124C2A06872868968D4E02"
+                "size":  15838632,
+                "sha256":  "B5BE53A76A942D0E7F62D784F338C3A08F120767F8F54301322DCC4A70B00AE8"
             }
 }
