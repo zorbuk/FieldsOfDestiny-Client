@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-17T23:10:16.7449165Z",
-    "message":  "v47. Actualización: Las Tierras de los Susurros y de la Plaga (niveles 50-60)",
+    "date":  "2026-11-18T11:48:22.3224349Z",
+    "message":  "v47. QoL, Some Water Improves, Many More",
     "config":  [
                    "servidor.json"
                ],
@@ -371,27 +371,27 @@
                      },
                      {
                          "path":  "paquetes/models-2.rar",
-                         "size":  4961822,
-                         "sha256":  "AA0A7A7B1DDBB4070CC51DC82D13A42B2A4B4FB29FDA377B0859C7EE3725594A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-2-aa0a7a7b1ddb.rar"
+                         "size":  5007438,
+                         "sha256":  "943C83008424F97DDCC19A3DF9E996091F0ED1503127E5CDC1E42FBD2E452271",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-2-943c83008424.rar"
                      },
                      {
                          "path":  "paquetes/models-3.rar",
-                         "size":  9538059,
-                         "sha256":  "F4910420552C8ED44851C3B167C51BA9BDA16D91B035CE53272B0E27D85B1505",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-3-f4910420552c.rar"
+                         "size":  9530616,
+                         "sha256":  "7F5DE54A7D385DA2099F5C3DB874A54989C890BD044FA6025DC2D53E4F6CAA63",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-3-7f5de54a7d38.rar"
                      },
                      {
                          "path":  "paquetes/models-4.rar",
-                         "size":  6718864,
-                         "sha256":  "FB26D24AB03ED087B2FDE83FB35C307E6974319EF6E51AD25F50ED8B09101651",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-4-fb26d24ab03e.rar"
+                         "size":  6759724,
+                         "sha256":  "A7C510F6A39987D5B79BFFF562C51FD97E3D0C28356A033884DDD3D28C8A503D",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-4-a7c510f6a399.rar"
                      },
                      {
                          "path":  "paquetes/models-5.rar",
-                         "size":  3114657,
-                         "sha256":  "FF90B8F731D87E4D02DAE457D16F1FBF53BEF9ABBEB2F08F6ABA84918B9D3768",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-5-ff90b8f731d8.rar"
+                         "size":  3105225,
+                         "sha256":  "44EA3ABF36229BA931C5BDAF62C0065C6EC7B269B4A70A2692C91A6803ECEC2F",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/models-5-44ea3abf3622.rar"
                      },
                      {
                          "path":  "paquetes/npcs.rar",
@@ -473,14 +473,14 @@
                      },
                      {
                          "path":  "paquetes/ui.rar",
-                         "size":  1116508,
-                         "sha256":  "52CE70A791F2C26C272DEC609B1DA94930C9A41B455E027E0E896D2C91400F72",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-52ce70a791f2.rar"
+                         "size":  1120412,
+                         "sha256":  "CBB53F9FBD1806E9384F11DA72714C0F37D38AFEF63E8594C04418BE855ACAC0",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-cbb53f9fbd18.rar"
                      }
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15883688,
-                "sha256":  "CC451AB88679CDEABD357C79AAAE7CFF0E87B403F807ABF5E18070BB06C5483F"
+                "size":  15941032,
+                "sha256":  "84AB144DD8C76B0EB0F52E5557AF847067674AA6C47B3937C1318E6C468CF23F"
             }
 }
