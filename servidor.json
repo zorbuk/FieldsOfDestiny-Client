@@ -1,5 +1,5 @@
 {
-    "AuthHost":  "fieldsofdestiny.duckdns.org",
+    "Destino":  "fod1:DV5GPR5SVhYoJQtGPxldSw9CQDoeT0peIzIf",
     "AuthPort":  3724,
     "UpdateRepository":  "zorbuk/FieldsOfDestiny-Client",
     "UpdateBranch":  "main",
