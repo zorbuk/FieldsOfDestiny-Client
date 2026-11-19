@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-18T11:45:56.8614462Z",
-    "message":  "v47. QoL, Some Water Improves, Many More",
+    "date":  "2026-11-19T10:18:11.0355474Z",
+    "message":  "v47. Mobile Updates, General Fixes, Routing",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39340564,
-                      "sha256":  "6337F153D9A59E7468117E67553ED1A4D6CE6D5D0CFA148779705DCD54248D4E"
+                      "size":  39342159,
+                      "sha256":  "FF7E21F0858133E46273CE6318B10BA7AC633307E4D1465A267AE2A46F60ED8A"
                   },
                   {
                       "path":  "jugar.sh",
