@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T12:04:12.3119036Z",
-    "message":  "v47. Android Client Now Preffers Ipv4 over Ipv6",
+    "date":  "2026-11-23T16:11:51.4871201Z",
+    "message":  "v47. More Bugs Fixed, New: Veil Stones and Procedural Dungeons with Afixes!",
     "config":  [
                    "servidor.json"
                ],
@@ -35,9 +35,9 @@
                      },
                      {
                          "path":  "paquetes/audio-5.rar",
-                         "size":  20678246,
-                         "sha256":  "E9E26374091B8BC8EA01853E0259DF71715395E643FFCAFD86D072A46DD995E3",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-e9e26374091b.rar"
+                         "size":  20678290,
+                         "sha256":  "76089FEB0AE0370A3C304E8A353071AE0B1315B9F44389F606B7C77AF0778A44",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-76089feb0ae0.rar"
                      },
                      {
                          "path":  "paquetes/audio-6.rar",
@@ -443,27 +443,27 @@
                      },
                      {
                          "path":  "paquetes/spells-1.rar",
-                         "size":  8558506,
-                         "sha256":  "74AE56F77B3C883CA78F9413DE692B9AE3BF4844D667E4A8BEF6946974B00C47",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-1-74ae56f77b3c.rar"
+                         "size":  8781775,
+                         "sha256":  "8E01263CB3AFACBD93D89F3E9F730F1B51CBF02B7DE5432BBDC05A66FF6B1DB9",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-1-8e01263cb3af.rar"
                      },
                      {
                          "path":  "paquetes/spells-2.rar",
-                         "size":  9162739,
-                         "sha256":  "A884A7076B4387F691EFD31CF3199625AFD57C3FF91C09456BCAED0976B7E794",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-2-a884a7076b43.rar"
+                         "size":  9231798,
+                         "sha256":  "48D53A15F5921F65CAD58889867659B27F5F1AE9E1D74688B03692162DA36DFC",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-2-48d53a15f592.rar"
                      },
                      {
                          "path":  "paquetes/spells-3.rar",
-                         "size":  8648340,
-                         "sha256":  "9C57F5A88D6B2F3C2E7B2948E7413397B6994EAF1D37B1B6BCC81270A95FE983",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-3-9c57f5a88d6b.rar"
+                         "size":  8832895,
+                         "sha256":  "775B738FBA0F36B8D969D54C788478166F14FBB826CB060DF490932B4794F980",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-3-775b738fba0f.rar"
                      },
                      {
                          "path":  "paquetes/spells-4.rar",
-                         "size":  8453862,
-                         "sha256":  "AE70E663F2A601FB8A9C86E939E3DAEBC87F410142AD040843C0DC0D59E96865",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-4-ae70e663f2a6.rar"
+                         "size":  8748121,
+                         "sha256":  "FF2850E3AB95B87FC988EDDD76E40D3BA25049B2BC9C9AB88707151CAF55E69F",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-4-ff2850e3ab95.rar"
                      },
                      {
                          "path":  "paquetes/terrain.rar",
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15965608,
-                "sha256":  "65BAA63FE075F703DE0E3756B1E494ED8B6BF5B168179CAF5D3FC92EC41DD084"
+                "size":  16018856,
+                "sha256":  "C3BB7EBA2E446F24C937350D0F49D35EC8EF59608F17AD5ED995BC9B930A8501"
             }
 }
