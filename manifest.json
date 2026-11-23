@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-19T10:20:03.4359208Z",
-    "message":  "v47. Mobile Updates, General Fixes, Routing",
+    "date":  "2026-11-23T11:35:36.3453292Z",
+    "message":  "v47. Bug Fixes, Global Cd for abilities are now independent, add second ability bar, fix connectivity, some assets fix",
     "config":  [
                    "servidor.json"
                ],
@@ -59,27 +59,27 @@
                      },
                      {
                          "path":  "paquetes/character-1.rar",
-                         "size":  8846743,
-                         "sha256":  "56577397A069126117B59C129E27E5AE56B573177C3450FD7D05175B33D7888A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-1-56577397a069.rar"
+                         "size":  8713243,
+                         "sha256":  "17AC613C6802E19C361A4709B188286BCF31FA23009C0932AB471449913007A5",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-1-17ac613c6802.rar"
                      },
                      {
                          "path":  "paquetes/character-10.rar",
-                         "size":  14462520,
-                         "sha256":  "FB0063DBBAC94FB515CDA8B340A16A8FD83B4E399D747E33FEE1DF9D2F2100DF",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-10-fb0063dbbac9.rar"
+                         "size":  13907776,
+                         "sha256":  "9269E8B801396FCA9F1DBE6992E12EC7B2F3FC9515BC16FCE05C18596E645FD5",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-10-9269e8b80139.rar"
                      },
                      {
                          "path":  "paquetes/character-11.rar",
-                         "size":  13515879,
-                         "sha256":  "052257908B5B4FA47730A78E99F79C6BFED68580AB171AE210AD849C1E8A4F9A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-11-052257908b5b.rar"
+                         "size":  13399223,
+                         "sha256":  "316B8BBF492D81E61B2BC72CD47B49D29C1DBAB8AF71A3F8EB053F6C7690C6C0",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-11-316b8bbf492d.rar"
                      },
                      {
                          "path":  "paquetes/character-12.rar",
-                         "size":  12679976,
-                         "sha256":  "FC77BD295684E2769FE18691F8776EC1AC8CE475DB94A14FB086210FE7E3166F",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-12-fc77bd295684.rar"
+                         "size":  12599541,
+                         "sha256":  "532526153AB69883F9C8DA726FB6B3A7B7C73ECC7AD22A76B295FECED4E78320",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-12-532526153ab6.rar"
                      },
                      {
                          "path":  "paquetes/character-13.rar",
@@ -89,87 +89,87 @@
                      },
                      {
                          "path":  "paquetes/character-14.rar",
-                         "size":  14942794,
-                         "sha256":  "0D57DC024FF1ADFF3E42CDCC9C8CFB0E12BA3A2491E3A62DD46386256B6D6448",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-14-0d57dc024ff1.rar"
+                         "size":  14539837,
+                         "sha256":  "4C30619E8B2FC28E6655BCBADF94F4E4BC245552D2542E46D5F44BA715FB116C",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-14-4c30619e8b2f.rar"
                      },
                      {
                          "path":  "paquetes/character-15.rar",
-                         "size":  12825397,
-                         "sha256":  "ABDB0628AEC5F9C5D40B4AA375BF7B7D6A380A9D8ABD62BC7EA1E0B254BEDF0F",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-15-abdb0628aec5.rar"
+                         "size":  12298004,
+                         "sha256":  "40812F0CD5F051BC9DE876A85261F53A275F63A8D9AF4FB4151163EF66E64E7E",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-15-40812f0cd5f0.rar"
                      },
                      {
                          "path":  "paquetes/character-16.rar",
-                         "size":  11251109,
-                         "sha256":  "35BB38E44FF0349C0E6FA80B3579AD7284FD7EA51E067B9A0F30F1AA1635E247",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-16-35bb38e44ff0.rar"
+                         "size":  10760620,
+                         "sha256":  "502D2AA70C0209C5C435121A2A8D5A939B5B52C27FAB72C17B619FB84E6C6A1F",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-16-502d2aa70c02.rar"
                      },
                      {
                          "path":  "paquetes/character-17.rar",
-                         "size":  14707961,
-                         "sha256":  "34342832F992678A219E50E7555D0755C3C6940A265C6B5C95C6F28D36966E0A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-17-34342832f992.rar"
+                         "size":  14319849,
+                         "sha256":  "AF745CC73BC63591E85641AC9F82CC57D1142E7CF795F5A14C764A07BF5CBFDA",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-17-af745cc73bc6.rar"
                      },
                      {
                          "path":  "paquetes/character-18.rar",
-                         "size":  13286634,
-                         "sha256":  "C0137BE424D160900F5A9C5ACCDD789579EDC9C3C67E592619D435CA3B5BAC9D",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-18-c0137be424d1.rar"
+                         "size":  12461380,
+                         "sha256":  "D6E20603AF27E8AE2E799D5329310FFE12C7B2BB20C8D35887C49D23864C208A",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-18-d6e20603af27.rar"
                      },
                      {
                          "path":  "paquetes/character-19.rar",
-                         "size":  12587495,
-                         "sha256":  "E825AA87C9E0A713963F2FD3EB1862668D4775653B94C8FDC9F627A70E23390A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-19-e825aa87c9e0.rar"
+                         "size":  12193010,
+                         "sha256":  "C12D06C2FD7EC5F012703EA1E47110484353816290C000E9E0B998C1397F0F5A",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-19-c12d06c2fd7e.rar"
                      },
                      {
                          "path":  "paquetes/character-2.rar",
-                         "size":  16198978,
-                         "sha256":  "29D2D0C6F3F1F957EC18ABFDAB57C50B4665D3D526E11907A00E1FA22DD7D42A",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-2-29d2d0c6f3f1.rar"
+                         "size":  15859598,
+                         "sha256":  "20E1CA4CB63EC1F2B218CE94236DA2AB3B6C8E30A7899B25AAC7B9F08E360FFA",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-2-20e1ca4cb63e.rar"
                      },
                      {
                          "path":  "paquetes/character-20.rar",
-                         "size":  10576775,
-                         "sha256":  "EB0734347C6EB6434C0A9E42178CD7A2DC082B89A29F2B6065B662039D5FB71D",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-20-eb0734347c6e.rar"
+                         "size":  9729901,
+                         "sha256":  "DC059C94CA87D6EC40B4715E6B45E090DC6DEC5A9668EF0C30499F28D6957C80",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-20-dc059c94ca87.rar"
                      },
                      {
                          "path":  "paquetes/character-21.rar",
-                         "size":  15891997,
-                         "sha256":  "13A75A87DCE1C23C7E16AA5BB185E08FDA2A68A2597856EE14E3FA8F917E0154",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-21-13a75a87dce1.rar"
+                         "size":  15807076,
+                         "sha256":  "21CCFE7C4B6AF1FCCCDEE7B74A34F96E584B3BB7D91EA89C40C6942B3BA63D84",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-21-21ccfe7c4b6a.rar"
                      },
                      {
                          "path":  "paquetes/character-22.rar",
-                         "size":  11100243,
-                         "sha256":  "DB8D95DAF7E73E989337F374C8D5BE4893711187B69E79226A66B6470CBF08E5",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-22-db8d95daf7e7.rar"
+                         "size":  10911574,
+                         "sha256":  "C3258744F463B4A88DCE356DF1FC13FD5DD8FBEFB56F364DD6E35EBAEBD666DD",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-22-c3258744f463.rar"
                      },
                      {
                          "path":  "paquetes/character-23.rar",
-                         "size":  13742663,
-                         "sha256":  "994692CC41BA728ADC41C1C910F7148934EC77A7C884D96D946EC9B2BE638298",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-23-994692cc41ba.rar"
+                         "size":  13169483,
+                         "sha256":  "00F9CE74A16E31543075486B3742BD0AB0DE4A9753FCCC2776AC407EC67C70E6",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-23-00f9ce74a16e.rar"
                      },
                      {
                          "path":  "paquetes/character-24.rar",
-                         "size":  18355308,
-                         "sha256":  "B6836EF12CDE700A459F1E288D9E932DD4613AF6DDF94A38EB9AEFAA528F5FB1",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-24-b6836ef12cde.rar"
+                         "size":  18008165,
+                         "sha256":  "A868502AD6AE8F2DCCA489ECD0C73E6B652144382EED39D721BD9B2E5378D090",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-24-a868502ad6ae.rar"
                      },
                      {
                          "path":  "paquetes/character-25.rar",
-                         "size":  16059401,
-                         "sha256":  "825DD1F90939B405A132AF0C2FC83A0CCA065CAE62023280A79B9E4EBE8C6BBB",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-25-825dd1f90939.rar"
+                         "size":  15606417,
+                         "sha256":  "82760803DA4E8EFF5A98F480731BC0E6CD6D7C9039A963C82FCD63FE226331B5",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-25-82760803da4e.rar"
                      },
                      {
                          "path":  "paquetes/character-26.rar",
-                         "size":  14189404,
-                         "sha256":  "CB15E68F09C1E02A15A9AA211F1E4EB44A6FA7F0C2D53003151B2070C20524F8",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-26-cb15e68f09c1.rar"
+                         "size":  13768886,
+                         "sha256":  "8A5D43559AAE409AED2FC2FDF974B2ACE926240E3D70BEA3012CF5A1E086D62D",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-26-8a5d43559aae.rar"
                      },
                      {
                          "path":  "paquetes/character-27.rar",
@@ -179,57 +179,57 @@
                      },
                      {
                          "path":  "paquetes/character-28.rar",
-                         "size":  12507246,
-                         "sha256":  "20DA1FC0DF4428838B7167A644609E0DB9D93D05C362C797231D47DAC734B07D",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-28-20da1fc0df44.rar"
+                         "size":  12248522,
+                         "sha256":  "A01DF0B258834FE2B8DE38953CCF7B98746CDBF5B3D1F64AA81745B80FFFEC96",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-28-a01df0b25883.rar"
                      },
                      {
                          "path":  "paquetes/character-29.rar",
-                         "size":  12614784,
-                         "sha256":  "2515B8B0A0F100AB36FFC510695BB08ECC9644749788C1D279882193BE3C2FC9",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-29-2515b8b0a0f1.rar"
+                         "size":  12314716,
+                         "sha256":  "E897F5C1B20970235A0618F6FB46634FF41405E73101B5511AFE13897BDB14C9",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-29-e897f5c1b209.rar"
                      },
                      {
                          "path":  "paquetes/character-3.rar",
-                         "size":  18805701,
-                         "sha256":  "71B281D0757F0FBE7D1EF9EC6C3F7EE643A283F0E20B21D358276EFD283D560B",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-3-71b281d0757f.rar"
+                         "size":  18649141,
+                         "sha256":  "74CF85DB710C4861258FAE31FCDC793F777945F0D7B906BCC44E7AA3A7A5069C",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-3-74cf85db710c.rar"
                      },
                      {
                          "path":  "paquetes/character-4.rar",
-                         "size":  20030351,
-                         "sha256":  "37AC132CD47150A5608EE73EAC213403306EFFDBF112B58CF2A8DA549EB67A37",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-4-37ac132cd471.rar"
+                         "size":  19651210,
+                         "sha256":  "530964C89FD853AAE7ABA2FC43AAD104F12920DA610D8023AF975538E37D33B3",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-4-530964c89fd8.rar"
                      },
                      {
                          "path":  "paquetes/character-5.rar",
-                         "size":  14230377,
-                         "sha256":  "4B9F529332FE921544229FC1E959BA259D74CC558FFB6987447D37582DB749A2",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-5-4b9f529332fe.rar"
+                         "size":  13545113,
+                         "sha256":  "B41FF6B2BE470CAE917A442E767C7282D043532F099B7340442648F1560AE641",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-5-b41ff6b2be47.rar"
                      },
                      {
                          "path":  "paquetes/character-6.rar",
-                         "size":  13797410,
-                         "sha256":  "EFBD762CD03704FB342FEC4B42CAE53C4606E6A329020A037E03BB4ECB01752E",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-6-efbd762cd037.rar"
+                         "size":  13229418,
+                         "sha256":  "9A2BE1F91E4C4DC52AE422A12F601C194EE0C8CD51E777056A6F74A5C12D5CA5",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-6-9a2be1f91e4c.rar"
                      },
                      {
                          "path":  "paquetes/character-7.rar",
-                         "size":  13306984,
-                         "sha256":  "C72D5CA25D533090BD78312FE6DE38ED352AF70C4EB359895565DDD3C14A6857",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-7-c72d5ca25d53.rar"
+                         "size":  13127876,
+                         "sha256":  "E25DA3AD338713562DF3F7B2C1B6FA9DEEB2D9436092B2CD27F28441D050F37A",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-7-e25da3ad3387.rar"
                      },
                      {
                          "path":  "paquetes/character-8.rar",
-                         "size":  12672732,
-                         "sha256":  "2B3CD973C526FD0B54D8A9ACF3F520D0142F9150B913A8EAC6C8618DF19B4B27",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-8-2b3cd973c526.rar"
+                         "size":  12022488,
+                         "sha256":  "989631C3F48CCDEF8B771F71A48E7A8A41BA07065AE9D00502220D5E2D3A9119",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-8-989631c3f48c.rar"
                      },
                      {
                          "path":  "paquetes/character-9.rar",
-                         "size":  14933189,
-                         "sha256":  "03A05D57DDBD0F231C0C249AF6EE2387D5A38AC66D0AA41E361EE64340DE3935",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-9-03a05d57ddbd.rar"
+                         "size":  14854630,
+                         "sha256":  "277B850EA2571038C19CE6300BBBD3392B8EF09C191B5EDC72F635ABA8B1629E",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/character-9-277b850ea257.rar"
                      },
                      {
                          "path":  "paquetes/enemies-1.rar",
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15945128,
-                "sha256":  "CF165C61228FD2420CE97E82B272909DC6E2EF14AADC1DAD1D17DF1A30C83706"
+                "size":  15961512,
+                "sha256":  "576DEF3524A576BA8D07C007A73C7AAD580E9EAAF864E03D203E029366B2853D"
             }
 }
