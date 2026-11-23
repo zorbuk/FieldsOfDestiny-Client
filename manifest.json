@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T11:48:52.3543296Z",
-    "message":  "v47. Conquest Confirmation, New Loot Bag Tier",
+    "date":  "2026-11-23T12:04:12.3119036Z",
+    "message":  "v47. Android Client Now Preffers Ipv4 over Ipv6",
     "config":  [
                    "servidor.json"
                ],
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  15961512,
-                "sha256":  "837E510E4053D4C796BB2EAA5F10177164D0E6CA26040011CF5BD6EC54365B4D"
+                "size":  15965608,
+                "sha256":  "65BAA63FE075F703DE0E3756B1E494ED8B6BF5B168179CAF5D3FC92EC41DD084"
             }
 }
