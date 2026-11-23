@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T11:33:42.7817953Z",
-    "message":  "v47. Bug Fixes, Global Cd for abilities are now independent, add second ability bar, fix connectivity, some assets fix",
+    "date":  "2026-11-23T11:47:43.7524692Z",
+    "message":  "v47. Conquest Confirmation, New Loot Bag Tier",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39346720,
-                      "sha256":  "C1ADC4C9767CD8DB976A32AE374A0FF8ABB57DA014E8343966A39C26777E60E9"
+                      "size":  39346811,
+                      "sha256":  "64C0F1F95D490E82E2145AE8CC3E706D253BC0A2785A8B578126D145F5B155A0"
                   },
                   {
                       "path":  "jugar.sh",
@@ -456,9 +456,9 @@
                      },
                      {
                          "path":  "paquetes/items.rar",
-                         "size":  2509652,
-                         "sha256":  "A5F949DAF8A7F739E6AD3602509E46B9BEECFFA509A2B8A2E0DF8335A8B99D24",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/items-a5f949daf8a7.rar"
+                         "size":  2530925,
+                         "sha256":  "EFB18CAB363AF91BB64D82DF145936F744214A3EEF09348AB96A7E7305B0CFB1",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/items-efb18cab363a.rar"
                      },
                      {
                          "path":  "paquetes/legal.rar",
