@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T16:10:14.0731298Z",
-    "message":  "v47. More Bugs Fixed, New: Veil Stones and Procedural Dungeons with Afixes!",
+    "date":  "2026-11-23T22:55:25.8204985Z",
+    "message":  "v47. Ui Redesign 1, More Veil Biomes",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39365210,
-                      "sha256":  "FF9B551DF55AA56B573FB5988506F5F2D3DC4D46CA482B1E2D55DB68DD05229C"
+                      "size":  39369814,
+                      "sha256":  "F6886803F397D12FA26C044A0AE5CAF6A770BDD62C9418A3375CBBC900C0CF88"
                   },
                   {
                       "path":  "jugar.sh",
@@ -144,9 +144,9 @@
                      },
                      {
                          "path":  "paquetes/audio-5.rar",
-                         "size":  20678290,
-                         "sha256":  "76089FEB0AE0370A3C304E8A353071AE0B1315B9F44389F606B7C77AF0778A44",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-76089feb0ae0.rar"
+                         "size":  20678324,
+                         "sha256":  "B96FE84C48BDC09626918551FFCBD654386162B1D841BA4A807279A3D0B3D85C",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/audio-5-b96fe84c48bd.rar"
                      },
                      {
                          "path":  "paquetes/audio-6.rar",
@@ -552,27 +552,27 @@
                      },
                      {
                          "path":  "paquetes/spells-1.rar",
-                         "size":  8781775,
-                         "sha256":  "8E01263CB3AFACBD93D89F3E9F730F1B51CBF02B7DE5432BBDC05A66FF6B1DB9",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-1-8e01263cb3af.rar"
+                         "size":  9207064,
+                         "sha256":  "86BD5E789DA5F8C5FE98F89BA8E2B27455538E1883120EF9E2084AFC6E5A879E",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-1-86bd5e789da5.rar"
                      },
                      {
                          "path":  "paquetes/spells-2.rar",
-                         "size":  9231798,
-                         "sha256":  "48D53A15F5921F65CAD58889867659B27F5F1AE9E1D74688B03692162DA36DFC",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-2-48d53a15f592.rar"
+                         "size":  9850147,
+                         "sha256":  "B3AD17B318156A99D7B5B4269286C8290FA9301DA63F73645FF52CD6AEB1A20B",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-2-b3ad17b31815.rar"
                      },
                      {
                          "path":  "paquetes/spells-3.rar",
-                         "size":  8832895,
-                         "sha256":  "775B738FBA0F36B8D969D54C788478166F14FBB826CB060DF490932B4794F980",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-3-775b738fba0f.rar"
+                         "size":  9418486,
+                         "sha256":  "82740EB75F519CE2E72D654A97465F97C63DC15E09D7E1A1C4E58F2A969EAD01",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-3-82740eb75f51.rar"
                      },
                      {
                          "path":  "paquetes/spells-4.rar",
-                         "size":  8748121,
-                         "sha256":  "FF2850E3AB95B87FC988EDDD76E40D3BA25049B2BC9C9AB88707151CAF55E69F",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-4-ff2850e3ab95.rar"
+                         "size":  9300799,
+                         "sha256":  "42F9715F726CF64BAE661FFAC411C3D3040BED48724EBF134023C706A593C178",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/spells-4-42f9715f726c.rar"
                      },
                      {
                          "path":  "paquetes/terrain.rar",
@@ -582,9 +582,9 @@
                      },
                      {
                          "path":  "paquetes/ui.rar",
-                         "size":  1120412,
-                         "sha256":  "CBB53F9FBD1806E9384F11DA72714C0F37D38AFEF63E8594C04418BE855ACAC0",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-cbb53f9fbd18.rar"
+                         "size":  1236037,
+                         "sha256":  "C160550AF1733AC56F102B52A47FD21C3B82B4B76E1B20CCD9C4EDDC73EB11C2",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-c160550af173.rar"
                      }
                  ]
 }
