@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T11:47:43.7524692Z",
-    "message":  "v47. Conquest Confirmation, New Loot Bag Tier",
+    "date":  "2026-11-23T12:03:00.6415651Z",
+    "message":  "v47. Android Client Now Preffers Ipv4 over Ipv6",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39346811,
-                      "sha256":  "64C0F1F95D490E82E2145AE8CC3E706D253BC0A2785A8B578126D145F5B155A0"
+                      "size":  39347875,
+                      "sha256":  "27C6619A42FD46538E3CE40B24571F8E7CF88A5DDA3120322C01A1E915A6E9D3"
                   },
                   {
                       "path":  "jugar.sh",
