@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-24T21:36:26.0829057Z",
-    "message":  "v47. Ui Redesign 3, Veil new items, Bug Fixes, Android Performance, Spells Update!, More Bug Fixing",
+    "date":  "2026-11-24T22:05:25.6958781Z",
+    "message":  "v47. Bank Updates, Veil Updates",
     "config":  [
                    "servidor.json"
                ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "FieldsOfDestiny.Client",
-                      "size":  39412478,
-                      "sha256":  "BF03CB020F3AAE7E65BD30C3C167DCAC1A19DE4305FFB99B82A7BBB35FABEB20"
+                      "size":  39413977,
+                      "sha256":  "74C0408F8E6AF02155030BBDEF11E437F474B52F264B57897E48DF942C9B8B8E"
                   },
                   {
                       "path":  "jugar.sh",
