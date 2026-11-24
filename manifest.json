@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-24T11:50:37.0020535Z",
-    "message":  "v47. Ui Redesign 2, More Equipment Options, Chat Rework, Fix Some Assets",
+    "date":  "2026-11-24T21:38:19.7778982Z",
+    "message":  "v47. Ui Redesign 3, Veil new items, Bug Fixes, Android Performance, Spells Update!, More Bug Fixing",
     "config":  [
                    "servidor.json"
                ],
@@ -347,9 +347,9 @@
                      },
                      {
                          "path":  "paquetes/items.rar",
-                         "size":  2530925,
-                         "sha256":  "EFB18CAB363AF91BB64D82DF145936F744214A3EEF09348AB96A7E7305B0CFB1",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/items-efb18cab363a.rar"
+                         "size":  2690527,
+                         "sha256":  "81770E666355AA528FE8371917F05DBDE63B22ED7B2B84A95FE07897431B251E",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/items-81770e666355.rar"
                      },
                      {
                          "path":  "paquetes/legal.rar",
@@ -480,7 +480,7 @@
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  16059816,
-                "sha256":  "A7719B10EB470571177C91620386E2204E8130C53B3FA52B5519B4C86FC3846B"
+                "size":  16186792,
+                "sha256":  "1EB08F433306530C90054BB5138D31E319EB1E0C24EE97757F3954EE25725D10"
             }
 }
