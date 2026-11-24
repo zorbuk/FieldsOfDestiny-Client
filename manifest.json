@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-23T22:56:41.8665626Z",
-    "message":  "v47. Ui Redesign 1, More Veil Biomes",
+    "date":  "2026-11-24T11:50:37.0020535Z",
+    "message":  "v47. Ui Redesign 2, More Equipment Options, Chat Rework, Fix Some Assets",
     "config":  [
                    "servidor.json"
                ],
@@ -473,14 +473,14 @@
                      },
                      {
                          "path":  "paquetes/ui.rar",
-                         "size":  1236037,
-                         "sha256":  "C160550AF1733AC56F102B52A47FD21C3B82B4B76E1B20CCD9C4EDDC73EB11C2",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-c160550af173.rar"
+                         "size":  1128603,
+                         "sha256":  "B1DB18596DA558190FACA003F5B18B2EE54285810CA578D12A6918BB81981426",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-b1db18596da5.rar"
                      }
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  16035240,
-                "sha256":  "361D0A060CB93D1894D1D5DE31BADDF10163730C649510A5F634C431D592E895"
+                "size":  16059816,
+                "sha256":  "A7719B10EB470571177C91620386E2204E8130C53B3FA52B5519B4C86FC3846B"
             }
 }
