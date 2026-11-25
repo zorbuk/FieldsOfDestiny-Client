@@ -1,7 +1,7 @@
 {
     "protocol":  47,
-    "date":  "2026-11-24T22:07:05.2046883Z",
-    "message":  "v47. Bank Updates, Veil Updates",
+    "date":  "2026-11-25T11:21:17.4207695Z",
+    "message":  "v47. Ui Redesign 4, Jobs Redesign, Selector Changes, Chat Upgrade",
     "config":  [
                    "servidor.json"
                ],
@@ -473,14 +473,14 @@
                      },
                      {
                          "path":  "paquetes/ui.rar",
-                         "size":  1128603,
-                         "sha256":  "B1DB18596DA558190FACA003F5B18B2EE54285810CA578D12A6918BB81981426",
-                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-b1db18596da5.rar"
+                         "size":  1138205,
+                         "sha256":  "BD3DE729FE71C654F9B42E00365DA0F4137A82CEBDFD2CEC84562B4857C36503",
+                         "url":  "https://github.com/zorbuk/FieldsOfDestiny-Client/releases/download/paquetes/ui-bd3de729fe71.rar"
                      }
                  ],
     "apk":  {
                 "path":  "FieldsOfDestiny.apk",
-                "size":  16190888,
-                "sha256":  "036DD660A1C2C1233205C21A022045782C8BAC99AEEAE8B849F9D3A0C8B88C48"
+                "size":  16231848,
+                "sha256":  "910EDCEE21A6B05F07955CA9B8B1184B02F022B98B00B7AD9CE74901293B4CE8"
             }
 }
